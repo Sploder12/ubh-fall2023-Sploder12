@@ -1,0 +1,3 @@
+[submodule "mOS"]
+	path = mOS
+	url = https://github.com/makeopensource/mOS.git
