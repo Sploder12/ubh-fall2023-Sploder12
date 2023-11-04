@@ -11,6 +11,8 @@ LFLAGS := -melf_i386 --build-id=none
 MOS_ELF := ./mOS/mOS.elf
 OUT := ./bin/game.bin
 
+.PHONY: clean
+
 all: $(MOS_ELF) $(OUT)
 
 $(OUT): ./bin/game.o test_entry.o
