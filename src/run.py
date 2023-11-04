@@ -10,7 +10,7 @@ PORT = 1111
 
 LOCALHOST = "127.0.0.1"
 DATA_DELAY = 0.1
-SLICE_SIZE = 128
+SLICE_SIZE = 256
 
 QEMU_ARGS = ["qemu-system-i386", "-boot", "c", "-no-reboot", "-no-shutdown"]
 
