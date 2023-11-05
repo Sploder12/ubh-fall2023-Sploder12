@@ -19,6 +19,8 @@
 #define PIPEGAP 10
 #define PIPEWIDTH 5
 
+// This code ain't very good LOL!
+
 VGA_Char buffer[VGA_SIZE];
 
 int prng = 0;

@@ -1,4 +1,13 @@
-# UB Hacking Fall 2023 Rules 
+# How2Play
+
+- Press Enter when prompted
+- Press Space to flap
+
+Requires everything that mOS does.
+`make run` will run it. Works on Unix and WSL, can work on MacOS with some tinkering.
+
+## UB Hacking Fall 2023 Rules
+
 - Teams can consist of between 1 and 4 people.
 - To have your submission be considered for judging, you must submit a 2-5 minute video along with your project. Try to keep it as concise as possible!
 - The projects submitted for judging cannot have been started prior to the start of the hackathon. In other words, teams can plan their projects in great detail, but they cannot begin writing code until they arrive at the hackathon.
